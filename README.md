@@ -1,11 +1,9 @@
 ## Olá! Eu sou o Felipe 🖐️
 
-💻 Sou um Dev com pouco tempo de experiência, mas sempre procuro me aperfeiçoar naquilo em que eu estudo.
+💻 Sou um Dev com pouco tempo de experiência, mas sempre procurando me aperfeiçoar naquilo em que eu estudo e sempre conhecendo coisas novas.
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 ## Tecnologias que eu uso no meu dia
 
