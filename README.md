@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe 🖐️
 
-💻 Sou um Dev com pouco tempo de experiência, mas sempre procurando me aperfeiçoar naquilo em que eu faço e sempre tento conhecer coisas novas.
+💻 Sou um Dev iniciante, mas sempre procurando me aperfeiçoar no que faço e disposto a aprender coisas novas.
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
