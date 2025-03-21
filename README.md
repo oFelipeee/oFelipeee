@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Felipe 🖐️
 
-## 💻 - Desenvolvimento de sitemas - Técnico
+  💻 - Desenvolvimento de sitemas - Técnico
 
-## 💻 - Cybersegurança - FIAP
+  💻 - Cybersegurança - FIAP
 
 ## Ja trabalhei com:
  <div style="display: inline_block">
