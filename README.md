@@ -40,4 +40,3 @@
 
 ---
 
-> ⭐ Este README foi personalizado com animações para representar minha jornada na programação e segurança da informação.
